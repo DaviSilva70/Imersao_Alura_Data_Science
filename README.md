@@ -1,2 +1,3 @@
-# Imes-o_Alura_Data_Science
-mersão Python: Do Excel à Análise de Dados
+# Imesao_Alura_Data_Science
+Imersão Python: Do Excel à Análise de Dados
+- Aluas Focadas noAprendizados deste a utilização do Google Sheets. ate a Analise Temporais
